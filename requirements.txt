@@ -3,3 +3,4 @@ langchain==0.0.228
 tqdm==4.65.0
 vertexai
 google-cloud-aiplatform>=1.26.0
+streamlit
