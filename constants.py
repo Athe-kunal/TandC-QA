@@ -1,2 +1,2 @@
-credentials_json = "participant-sa-18-ghc-020.json"
+credentials_json = "participant-sa-15-ghc-011.json"
 
